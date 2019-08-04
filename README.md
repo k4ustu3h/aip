@@ -5,7 +5,7 @@ Blueprint
 
 ![API](https://img.shields.io/badge/API-16%2B-34bf49.svg)
 [![JitPack](https://jitpack.io/v/com.jahirfiquitiva/Blueprint.svg)](https://jitpack.io/#com.jahirfiquitiva/Blueprint)
-[![Build Status](https://travis-ci.org/jahirfiquitiva/Blueprint.svg?branch=master)](https://travis-ci.org/jahirfiquitiva/Blueprint)
+[![Build Status](https://travis-ci.org/k4ustu3h/aip.svg?branch=sample)](https://travis-ci.org/k4ustu3h/aip)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/55f3f196492a4ea88f13da0f219b9125)](https://www.codacy.com/app/jahirfiquitiva/Blueprint?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=jahirfiquitiva/Blueprint&amp;utm_campaign=Badge_Grade)
 [![Crowdin](https://d322cqt584bo4o.cloudfront.net/blueprint/localized.svg)](http://j.mp/BlueprintTranslations)
 
