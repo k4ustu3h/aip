@@ -26,6 +26,8 @@ script: if [[ "$TRAVIS_TAG" ]]; then ./gradlew clean :app:assembleRelease --stac
 
 notifications:
   slack: anothericonpack:LAm0AQJq3uPiRGNv53CCrJ5e
+  template:
+      - "Build <%{build_url}|#%{build_number}> (<%{compare_url}|%{commit}>) of %{repository_slug}@%{branch} by %{author} %{result} in %{duration}"
 
 sudo: false
 
