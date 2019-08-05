@@ -30,11 +30,11 @@
 
     <item
         component="ComponentInfo{com.android.dialer/com.android.dialer.DialtactsActivity}"
-        drawable="phone" />
+        drawable="google_phone" />
 
     <item
         component="ComponentInfo{com.google.android.dialer/com.google.android.dialer.extensions.GoogleDialtactsActivity}"
-        drawable="phone" />
+        drawable="google_phone" />
 
     <item
         component="ComponentInfo{com.whatsapp/com.whatsapp.Main}"
@@ -124,5 +124,11 @@
     <item
         component="ComponentInfo{tv.accedo.airtel.wynk/tv.accedo.airtel.wynk.presentation.view.activity.SplashActivity}"
         drawable="airtel_tv"/>
+    <item
+        component="ComponentInfo{com.google.android.contacts/com.android.contacts.activities.PeopleActivity"
+        drawable="google_contacts"/>
+    <item
+        component="ComponentInfo{com.android.contacts/com.android.contacts.activities.PeopleActivity"
+        drawable="google_contacts"/>
 
 </resources>

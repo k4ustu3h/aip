@@ -35,10 +35,10 @@
         image="discord" />
     <AppIcon
         name="com.android.dialer/com.android.dialer.DialtactsActivity"
-        image="phone"/>
+        image="google_phone"/>
     <AppIcon
         name="com.google.android.dialer/com.google.android.dialer.extensions.GoogleDialtactsActivity"
-        image="phone" />
+        image="google_phone" />
     <AppIcon
         name="com.whatsapp/com.whatsapp.Main"
         image="whatsapp"/>
@@ -120,5 +120,11 @@
     <AppIcon
         name="tv.accedo.airtel.wynk/tv.accedo.airtel.wynk.presentation.view.activity.SplashActivity"
         image="airtel_tv"/>
+    <AppIcon
+        name="com.google.android.contacts/com.android.contacts.activities.PeopleActivity"
+        image="google_contacts"/>
+    <AppIcon
+        name="com.android.contacts/com.android.contacts.activities.PeopleActivity"
+        image="google_contacts"/>
 
 </Theme>

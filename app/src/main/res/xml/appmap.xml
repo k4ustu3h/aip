@@ -28,10 +28,10 @@
         name="discord" />
     <item
         class="com.android.dialer/com.android.dialer.DialtactsActivity"
-        name="phone"/>
+        name="google_phone"/>
     <item
         class="com.google.android.dialer/com.google.android.dialer.extensions.GoogleDialtactsActivity"
-        name="phone" />
+        name="google_phone" />
     <item
         class="com.whatsapp/com.whatsapp.Main"
         name="whatsapp"/>
@@ -113,5 +113,11 @@
     <item
         class="tv.accedo.airtel.wynk/tv.accedo.airtel.wynk.presentation.view.activity.SplashActivity"
         name="airtel_tv"/>
+    <item
+        class="com.google.android.contacts/com.android.contacts.activities.PeopleActivity"
+        name="google_contacts"/>
+    <item
+        class="com.android.contacts/com.android.contacts.activities.PeopleActivity"
+        name="google_contacts"/>
 
 </appmap>

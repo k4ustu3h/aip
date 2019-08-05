@@ -17,13 +17,13 @@
 
 <resources>
 
-    <version>19842</version>
+    <version>19851</version>
 
     <category title="Latest" />
     <item drawable="pubg" />
     <item drawable="authenticator" />
     <item drawable="discord" />
-    <item drawable="phone" />
+    <item drawable="google_phone" />
     <item drawable="musixmatch"/>
     <item drawable="viper4android"/>
     <item drawable="keep_notes"/>
@@ -32,7 +32,7 @@
     <category title="All" />
     <item drawable="pubg"/>
     <item drawable="discord"/>
-    <item drawable="phone"/>
+    <item drawable="google_phone"/>
     <item drawable="whatsapp"/>
     <item drawable="viper4android"/>
     <item drawable="camera"/>
@@ -64,6 +64,7 @@
     <item drawable="another_widget"/>
     <item drawable="clash_royale"/>
     <item drawable="airtel_tv"/>
+    <item drawable="google_contacts"/>
 
     <category title="Action" />
     <item drawable="pubg" />
@@ -71,10 +72,11 @@
 
     <category title="Communication" />
     <item drawable="discord" />
-    <item drawable="phone" />
+    <item drawable="google_phone" />
     <item drawable="whatsapp"/>
     <item drawable="chrome"/>
     <item drawable="telegram"/>
+    <item drawable="google_contacts"/>
 
     <category title="Entertainment"/>
     <item drawable="steam"/>

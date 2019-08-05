@@ -23,7 +23,7 @@
         <item>authenticator</item>
         <item>discord</item>
         <item>musixmatch</item>
-        <item>phone</item>
+        <item>google_phone</item>
         <item>viper4android</item>
         <item>keep_notes</item>
         <item>airtel</item>
@@ -55,7 +55,7 @@
         <item>pubg</item>
         <item>discord</item>
         <item>whatsapp</item>
-        <item>phone</item>
+        <item>google_phone</item>
         <item>viper4android</item>
         <item>camera</item>
         <item>google_camera</item>
@@ -81,6 +81,7 @@
         <item>another_widget</item>
         <item>clash_royale</item>
         <item>airtel_tv</item>
+        <item>google_contacts</item>
     </string-array>
 
     <string-array name="Action">
@@ -90,7 +91,7 @@
 
     <string-array name="Communication">
         <item>discord</item>
-        <item>phone</item>
+        <item>google_phone</item>
         <item>whatsapp</item>
         <item>chrome</item>
         <item>telegram</item>
@@ -99,6 +100,7 @@
     <string-array name="Entertainment">
         <item>steam</item>
         <item>airtel_tv</item>
+        <item>google_contacts</item>
     </string-array>
 
     <string-array name="Health_and_Fitness">

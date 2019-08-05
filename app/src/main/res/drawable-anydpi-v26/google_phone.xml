@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-  ~ Copyright (c) 2017 Jahir Fiquitiva
+  ~ Copyright (c) 2019.
   ~
   ~ Licensed under the CreativeCommons Attribution-ShareAlike
   ~ 4.0 International License. You may not use this file except in compliance
@@ -13,15 +13,8 @@
   ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
   ~ See the License for the specific language governing permissions and
   ~ limitations under the License.
-  ~
-  ~ Special thanks to the project contributors and collaborators
-  ~ 	https://github.com/jahirfiquitiva/IconShowcase#special-thanks
   -->
-
-<theme>
-    <version>19.8.5.1</version>
-    <themeName>Another Icon Pack</themeName>
-    <themeInfo>Just Another Icon Pack app for your android phone.</themeInfo>
-    <preview img1="preview1" />
-    <preview img2="preview2" />
-</theme>
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+    <background android:drawable="@mipmap/google_phone_background"/>
+    <foreground android:drawable="@mipmap/google_phone_foreground"/>
+</adaptive-icon>
