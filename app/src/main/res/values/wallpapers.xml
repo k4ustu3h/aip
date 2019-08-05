@@ -14,10 +14,12 @@
   ~ See the License for the specific language governing permissions and
   ~ limitations under the License.
   -->
-
+<!--suppress CheckTagEmptyBody -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
     <!-- Provide a list of wallpapers -->
-    <string-array name="wallpapers" />
+    <string-array name="wallpapers">
+        <item></item>
+    </string-array>
     <!-- This wallpaper will be used when a user applies the theme -->
-    <string name="default_wallpaper" />
+    <string name="default_wallpaper"></string>
 </resources>

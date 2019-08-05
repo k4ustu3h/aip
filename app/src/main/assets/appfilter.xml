@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ~ Copyright (c) 2017 Jahir Fiquitiva
+  ~
+  ~ Licensed under the CreativeCommons Attribution-ShareAlike
+  ~ 4.0 International License. You may not use this file except in compliance
+  ~ with the License. You may obtain a copy of the License at
+  ~
+  ~    http://creativecommons.org/licenses/by-sa/4.0/legalcode
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  ~
+  ~ Special thanks to the project contributors and collaborators
+  ~ 	https://github.com/jahirfiquitiva/IconShowcase#special-thanks
+  -->
+
+<resources>
+
+    <item
+        component="ComponentInfo{com.tencent.ig/com.epicgames.ue4.SplashActivity}"
+        drawable="pubg" />
+
+    <item
+        component="ComponentInfo{com.discord/com.discord.app.AppActivity$Main}"
+        drawable="discord" />
+
+    <item
+        component="ComponentInfo{com.android.dialer/com.android.dialer.DialtactsActivity}"
+        drawable="phone" />
+
+    <item
+        component="ComponentInfo{com.google.android.dialer/com.google.android.dialer.extensions.GoogleDialtactsActivity}"
+        drawable="phone" />
+
+    <item
+        component="ComponentInfo{com.whatsapp/com.whatsapp.Main}"
+        drawable="whatsapp"/>
+
+    <item
+        component="ComponentInfo{com.pittvandewitt.viperfx/com.pittvandewitt.viperfx.MainActivity}"
+        drawable="viper4android"/>
+    <item
+        component="ComponentInfo{com.android.camera2/com.android.camera.CameraLauncher}"
+        drawable="camera"/>
+    <item
+        component="ComponentInfo{com.google.android.GoogleCamera/com.android.camera.CameraLauncher}"
+        drawable="google_camera"/>
+    <item
+        component="ComponentInfo{com.google.android.GoogleCameraEng/com.android.camera.CameraLauncher}"
+        drawable="google_camera"/>
+    <item
+        component="ComponentInfo{com.myairtelapp/com.myairtelapp.activity.OnboardingActivity}"
+        drawable="airtel"/>
+    <item
+        component="ComponentInfo{in.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity}"
+        drawable="amazon"/>
+    <item
+        component="ComponentInfo{com.google.android.calculator/com.android.calculator2.Calculator}"
+        drawable="calculator"/>
+    <item
+        component="ComponentInfo{com.google.android.keep/com.google.android.keep.activities.BrowseActivity}"
+        drawable="keep_notes"/>
+    <item
+        component="ComponentInfo{com.google.android.apps.authenticator2/com.google.android.apps.authenticator.AuthenticatorActivity}"
+        drawable="authenticator"/>
+    <dynamic-clock
+        component="ComponentInfo{com.google.android.deskclock/com.android.deskclock.DeskClock}"
+        drawable="clock"
+        hourLayerIndex="0"
+        minuteLayerIndex="1"
+        secondLayerIndex="2"
+        defaultHour="10"
+        defaultMinute="10"
+        defaultSecond="30" />
+    <item
+        component="ComponentInfo{com.fillobotto.mp3tagger/activities.MainActivity}"
+        drawable="automatag"/>
+    <item
+        component="ComponentInfo{com.tencent.igce/com.epicgames.ue4.SplashActivity}"
+        drawable="pubg_beta"/>
+    <item
+        component="ComponentInfo{com.aospextended.aexpapers/com.aospextended.aexpapers.MainActivity}"
+        drawable="aexpapers"/>
+    <item
+        component="ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main}"
+        drawable="chrome"/>
+    <item
+        component="ComponentInfo{com.android.musicfx/com.android.musicfx.ActivityMusic}"
+        drawable="musicfx"/>
+    <item
+        component="ComponentInfo{com.delphicoder.flud/com.delphicoder.flud.MainActivity}"
+        drawable="flud"/>
+    <item
+        component="ComponentInfo{com.oasisfeng.greenify/com.oasisfeng.greenify.GreenifyActivity}"
+        drawable="greenify"/>
+    <item
+        component="ComponentInfo{com.musixmatch.android.lyrify/com.musixmatch.android.ui.phone.DashBoardActivity}"
+        drawable="musixmatch"/>
+    <item
+        component="ComponentInfo{com.quizup.core/com.quizup.ui.client.activity.MainActivity}"
+        drawable="quizup"/>
+    <item
+        component="ComponentInfo{com.reflectlyApp/com.reflectlyApp.MainActivity}"
+        drawable="reflectly"/>
+    <item
+        component="ComponentInfo{com.shazam.android/com.shazam.android.activities.SplashActivity}"
+        drawable="shazam"/>
+    <item
+        component="ComponentInfo{com.valvesoftware.android.steam.community/com.valvesoftware.android.steam.community.activity.MainActivity}"
+        drawable="steam"/>
+    <item
+        component="ComponentInfo{org.telegram.messenger/org.telegram.ui.LaunchActivity}"
+        drawable="telegram"/>
+    <item
+        component="ComponentInfo{com.tommasoberlose.anotherwidget/com.tommasoberlose.anotherwidget.ui.activity.MainActivity}"
+        drawable="another_widget"/>
+    <item
+        component="ComponentInfo{com.supercell.clashroyale/com.supercell.clashroyale.GameApp}"
+        drawable="clash_royale"/>
+    <item
+        component="ComponentInfo{tv.accedo.airtel.wynk/tv.accedo.airtel.wynk.presentation.view.activity.SplashActivity}"
+        drawable="airtel_tv"/>
+
+</resources>

@@ -15,9 +15,206 @@
   ~ limitations under the License.
   -->
 <resources>
-    <version title="v1.0.0" />
-    <item text="Initial Changelog" />
-    <item text="Bullet point here" />
-    <item text="More points" />
-    <item text="" /> <!-- this one is empty and therefore ignored -->
+
+    <!-- fixed theme_resources.xml and appmap.xml -->
+
+    <version title="v19.8.4.2"/>
+    <item text="added Airtel TV"/>
+
+    <version title="v19.8.4.1"/>
+    <item text="changed Clash Royale"/>
+
+    <version title="v19.8.2.1"/>
+    <item text="updated to Blueprint v1.4.6"/>
+    <item text="changed accent colour"/>
+    <item text="changed notification icon"/>
+
+    <version title="v19.8.1.1"/>
+    <item text="added category Strategy"/>
+    <item text="added Clash Royale"/>
+    <item text="removed Wallpapers for now"/>
+
+    <version title="v19.7.31.1"/>
+    <item text="added Another Widget"/>
+    <item text="cropped Another Widget(3500 to 4800)"/>
+    <item text="removed folders iconsets, komponents, lockscreens, templates, wallpapers, widgets"/>
+    <item text="removed clock widget"/>
+    <item text="fixed encoding in several files"/>
+    <item text="removed widgets"/>
+
+    <version title="v19.7.30.2"/>
+    <item text="enabled OneSignal"/>
+
+    <version title="19.7.30.1"/>
+    <item text="modified credits_configs.xml"/>
+    <item text="added Firebase"/>
+
+    <version title="v19.7.28.2"/>
+    <item text="reorganised changelog (now in descending order)"/>
+    <item text="added Telegram"/>
+    <item text="cropped Telegram (1920 to 3400) and repositioned (X:-96)"/>
+
+    <version title="v19.7.28.1"/>
+    <item text="added category Entertainment"/>
+    <item text="added Steam"/>
+    <item text="repositioned Steam (X: -256)"/>
+
+    <version title="v19.7.27.4"/>
+    <item text="removed category Google"/>
+    <item text="added Shazam"/>
+
+    <version title="v19.7.27.3"/>
+    <item text="added category Health and Fitness"/>
+    <item text="added Reflectly"/>
+    <item text="ignored AIP-G for Reflectly (cropped 2214 to 1440)"/>
+
+    <version title="v19.7.27.2"/>
+    <item text="reorganised categories"/>
+    <item text="renamed category Games to Action"/>
+    <item text="added category Trivia"/>
+    <item text="added Quizup"/>
+
+    <version title="v19.7.27.1"/>
+    <item text="ignored AIP-G for Musixmatch (cropped 2160 to 3200)"/>
+
+    <version title="v19.7.26.3"/>
+    <item text="added Musixmatch"/>
+
+    <version title="v19.7.26.2"/>
+    <item text="ignored AIP Guidelines for Flud (cropped 1360 to 2160)"/>
+    <item text="added Greenify"/>
+
+    <version title="v19.7.26.1"/>
+    <item text="ignored AIP Guidelines for Chrome (cropped 2160 to 1640)"/>
+    <item text="added MusicFX, Flud"/>
+    <item text="added category Video Players and Editors"/>
+
+    <version title="v19.7.25.2"/>
+    <item text="renamed category Messengers to Communication"/>
+    <item text="added Chrome"/>
+
+    <version title="v19.7.25.1"/>
+    <item text="added category Personalization"/>
+    <item text="added AEXPapers"/>
+    <item text="fixed icon_pack.xml"/>
+
+    <version title="v19.7.24.2"/>
+    <item text="replaced the backgrounds of Camera and Google Camera"/>
+
+    <version title="v19.7.24.1"/>
+    <item text="repositioned Automatag (X:-32 Y:+32)"/>
+    <item text="added PUBG Beta"/>
+    <item text="replaced the black background in Camera and Google Camera with a blurred background"/>
+
+    <version title="v19.7.23.1"/>
+    <item text="added Automatag"/>
+
+    <version title="v19.7.22.1"/>
+    <item text="added Clock mipmap"/>
+
+    <version title="v19.7.21.3"/>
+    <item text="ignored AIP Guidelines for Authenticator (cropped 2160 to 1440)"/>
+
+    <version title="v19.7.21.2"/>
+    <item text="modified Calculator mipmap"/>
+    <item text="added Authenticator mipmap"/>
+
+    <version title="v19.7.21.1"/>
+    <item text="added Airtel, Amazon, Calculator mipmap"/>
+
+    <version title="v19.7.20.3"/>
+    <item text="created Viper4Android, Google Camera, Camera mipmap"/>
+    <item text="removed Play Store"/>
+
+    <version title="v19.7.20.2"/>
+    <item text="ignored AIP Guidelines for phone (multiplied with 0.9)"/>
+
+    <version title="v19.7.20.1"/>
+    <item text="modified phone drawable"/>
+
+    <version title="v19.7.18.2"/>
+    <item text="updated icon guidelines"/>
+    <item text="modified Discord, PUBG"/>
+    <item text="created phone mipmap"/>
+
+    <version title="v19.7.18.1"/>
+    <item text="modified WhatsApp drawable"/>
+
+    <version title="v19.7.17.4"/>
+    <item text="adaptive icons test 4 succeeded"/>
+    <item text="adaptive icons test concluded"/>
+    <item text="google_go removed"/>
+    <item text="created WhatsApp, Discord mipmap"/>
+    <item text="added white background to app icon"/>
+
+    <version title="v19.7.17.3"/>
+    <item text="adaptive icons test 3 succeeded"/>
+    <item text="Keep Notes drawable background changed to white"/>
+    <item text="Converted PUBG to Adaptive icon"/>
+    <item text="adaptive icons test 4"/>
+
+    <version title="v19.7.17.2"/>
+    <item text="adaptive icons test 2 failed"/>
+    <item text="adaptive icons test 3"/>
+    <item text="Keep Notes drawable made opaque"/>
+
+    <version title="v19.7.17.1"/>
+    <item text="adaptive icons test 2"/>
+    <item text="added Keep Notes"/>
+
+    <version title="v19.7.16.3"/>
+    <item text="adaptive icons test 1 failed"/>
+    <item text="Amazon drawable reverted from adaptive to legacy"/>
+    <item text="added category Tools"/>
+    <item text="added calculator"/>
+
+    <version title="v19.7.16.2"/>
+    <item text="adaptive icons test 1"/>
+    <item text="added Amazon"/>
+    <item text="added category Shopping"/>
+
+    <version title="v19.7.16.1"/>
+    <item text="added Airtel"/>
+    <item text="added category Productivity"/>
+
+    <version title="v19.7.15.2"/>
+    <item text="fixed theme_resources.xml and appmap.xml"/>
+    <item text="added category Photography"/>
+    <item text="added Camera and Google Camera"/>
+
+    <version title="v19.7.15.1"/>
+    <item text="fixed appfilter.xml"/>
+    <item text="renamed drawable play to play_store"/>
+
+    <version title="v19.7.13.2"/>
+    <item text="fixed drawables"/>
+    <item text="changed App Icon"/>
+
+    <version title="v19.7.13.1"/>
+    <item text="renamed Google to Google Go"/>
+    <item text="added Play Store"/>
+
+    <version title="v19.5.10.1"/>
+    <item text="fixed drawable.xml"/>
+
+    <version title="v19.5.9.1"/>
+    <item text="added WhatsApp and Viper4Android"/>
+    <item text="removed sample drawables" />
+
+    <version title="v19.5.3.2"/>
+    <item text="fixed icon_pack.xml"/>
+
+    <version title="v19.5.3.1"/>
+    <item text="fixed gradle" />
+    <item text="fixed icon" />
+    <item text="added phone" />
+    <item text="simplified drawable names"/>
+
+    <version title="v19.5.2.2" />
+    <item text="Edited the source code further" />
+    <item text="Added PUBGM, Discord, Google"/>
+
+    <version title="v19.5.2.1" />
+    <item text="App Created" />
+
 </resources>

@@ -65,9 +65,9 @@
     <string name="collections_placeholder" translatable="false"></string>
 
     <!--
-     Enable immediate download
-     When set to false, users must wait 3 hours after installing the app to be able to download
-     any wallpapers
+    Enable immediate download
+    When set to false, users must wait 3 hours after installing the app to be able to download
+    any wallpapers
     -->
     <bool name="immediate_download">false</bool>
 

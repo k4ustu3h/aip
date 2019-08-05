@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ~ Copyright (c) 2017 Jahir Fiquitiva
+  ~
+  ~ Licensed under the CreativeCommons Attribution-ShareAlike
+  ~ 4.0 International License. You may not use this file except in compliance
+  ~ with the License. You may obtain a copy of the License at
+  ~
+  ~    http://creativecommons.org/licenses/by-sa/4.0/legalcode
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  ~
+  ~ Special thanks to the project contributors and collaborators
+  ~ 	https://github.com/jahirfiquitiva/IconShowcase#special-thanks
+  -->
+
+<Theme version="19842">
+    <Label value="Another Icon Pack" />
+    <Wallpaper image="wallpaper_01" />
+    <LockScreenWallpaper image="wallpaper_02" />
+    <ThemePreview image="preview1" />
+    <ThemePreviewWork image="preview1" />
+    <ThemePreviewMenu image="preview1" />
+    <DockMenuAppIcon selector="drawer" />
+
+    <AppIcon
+        name="com.tencent.ig/com.epicgames.ue4.SplashActivity"
+        image="pubg" />
+    <AppIcon
+        name="com.discord/com.discord.app.AppActivity$Main"
+        image="discord" />
+    <AppIcon
+        name="com.android.dialer/com.android.dialer.DialtactsActivity"
+        image="phone"/>
+    <AppIcon
+        name="com.google.android.dialer/com.google.android.dialer.extensions.GoogleDialtactsActivity"
+        image="phone" />
+    <AppIcon
+        name="com.whatsapp/com.whatsapp.Main"
+        image="whatsapp"/>
+    <AppIcon
+        name="com.pittvandewitt.viperfx/com.pittvandewitt.viperfx.MainActivity"
+        image="viper4android"/>
+    <AppIcon
+        name="com.android.camera2/com.android.camera.CameraLauncher"
+        image="camera"/>
+    <AppIcon
+        name="com.google.android.GoogleCamera/com.android.camera.CameraLauncher"
+        image="google_camera"/>
+    <AppIcon
+        name="com.google.android.GoogleCameraEng/com.android.camera.CameraLauncher"
+        image="google_camera"/>
+    <AppIcon
+        name="com.myairtelapp/com.myairtelapp.activity.OnboardingActivity"
+        image="airtel"/>
+    <AppIcon
+        name="in.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity"
+        image="amazon"/>
+    <AppIcon
+        name="com.google.android.calculator/com.android.calculator2.Calculator"
+        image="calculator"/>
+    <AppIcon
+        name="com.google.android.keep/com.google.android.keep.activities.BrowseActivity"
+        image="keep_notes"/>
+    <AppIcon
+        name="com.google.android.apps.authenticator2/com.google.android.apps.authenticator.AuthenticatorActivity"
+        image="authenticator"/>
+    <AdaptiveIcon
+        name="com.google.android.deskclock/com.android.deskclock.DeskClock"
+        image="clock"/>
+    <AppIcon
+        name="com.fillobotto.mp3tagger/activities.MainActivity"
+        image="automatag"/>
+    <AppIcon
+        name="com.tencent.igce/com.epicgames.ue4.SplashActivity"
+        image="pubg_beta"/>
+    <AppIcon
+        name="com.aospextended.aexpapers/com.aospextended.aexpapers.MainActivity"
+        image="aexpapers"/>
+    <AppIcon
+        name="com.android.chrome/com.google.android.apps.chrome.Main"
+        image="chrome"/>
+    <AppIcon
+        name="com.android.musicfx/com.android.musicfx.ActivityMusic"
+        image="musicfx"/>
+    <AppIcon
+        name="com.delphicoder.flud/com.delphicoder.flud.MainActivity"
+        image="flud"/>
+    <AppIcon
+        name="com.oasisfeng.greenify/com.oasisfeng.greenify.GreenifyActivity"
+        image="greenify"/>
+    <AppIcon
+        name="com.musixmatch.android.lyrify/com.musixmatch.android.ui.phone.DashBoardActivity"
+        image="musixmatch"/>
+    <AppIcon
+        name="com.quizup.core/com.quizup.ui.client.activity.MainActivity"
+        image="quizup"/>
+    <AppIcon
+        name="com.reflectlyApp/com.reflectlyApp.MainActivity"
+        image="reflectly"/>
+    <AppIcon
+        name="com.shazam.android/com.shazam.android.activities.SplashActivity"
+        image="shazam"/>
+    <AppIcon
+        name="com.valvesoftware.android.steam.community/com.valvesoftware.android.steam.community.activity.MainActivity"
+        image="steam"/>
+    <AppIcon
+        name="org.telegram.messenger/org.telegram.ui.LaunchActivity"
+        image="telegram"/>
+    <AppIcon
+        name="com.tommasoberlose.anotherwidget/com.tommasoberlose.anotherwidget.ui.activity.MainActivity"
+        image="another_widget"/>
+    <AppIcon
+        name="com.supercell.clashroyale/com.supercell.clashroyale.GameApp"
+        image="clash_royale"/>
+    <AppIcon
+        name="tv.accedo.airtel.wynk/tv.accedo.airtel.wynk.presentation.view.activity.SplashActivity"
+        image="airtel_tv"/>
+
+</Theme>

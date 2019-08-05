@@ -15,8 +15,8 @@
   -->
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          xmlns:tools="http://schemas.android.com/tools"
-          package="jahirfiquitiva.apps.blueprint.demo">
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.aip">
 
     <!-- Permission required for donations -->
     <uses-permission android:name="com.android.vending.BILLING" />
@@ -61,7 +61,7 @@
         -->
 
         <!-- OneSignal Notifications Service -->
-        <!-- TODO: Remove comment marks to enable
+
         <service
                 android:name=".NotificationService"
                 android:permission="android.permission.BIND_JOB_SERVICE"
@@ -70,7 +70,6 @@
                 <action android:name="com.onesignal.NotificationExtender"/>
             </intent-filter>
         </service>
-        -->
 
         <activity
             android:name=".MainActivity"

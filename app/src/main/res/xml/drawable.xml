@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2019.
+  ~
+  ~ Licensed under the CreativeCommons Attribution-ShareAlike
+  ~ 4.0 International License. You may not use this file except in compliance
+  ~ with the License. You may obtain a copy of the License at
+  ~
+  ~    http://creativecommons.org/licenses/by-sa/4.0/legalcode
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+
+    <version>19842</version>
+
+    <category title="Latest" />
+    <item drawable="pubg" />
+    <item drawable="authenticator" />
+    <item drawable="discord" />
+    <item drawable="phone" />
+    <item drawable="musixmatch"/>
+    <item drawable="viper4android"/>
+    <item drawable="keep_notes"/>
+    <item drawable="airtel"/>
+
+    <category title="All" />
+    <item drawable="pubg"/>
+    <item drawable="discord"/>
+    <item drawable="phone"/>
+    <item drawable="whatsapp"/>
+    <item drawable="viper4android"/>
+    <item drawable="camera"/>
+    <item drawable="google_camera"/>
+    <item drawable="airtel"/>
+    <item drawable="amazon"/>
+    <item drawable="calculator"/>
+    <item drawable="keep_notes"/>
+    <item drawable="authenticator"/>
+    <dynamic-clock drawable="clock"
+        hourLayerIndex="0"
+        minuteLayerIndex="1"
+        secondLayerIndex="2"
+        defaultHour="10"
+        defaultMinute="10"
+        defaultSecond="30" />
+    <item drawable="automatag"/>
+    <item drawable="pubg_beta"/>
+    <item drawable="aexpapers"/>
+    <item drawable="chrome"/>
+    <item drawable="musicfx"/>
+    <item drawable="flud"/>
+    <item drawable="greenify"/>
+    <item drawable="quizup"/>
+    <item drawable="reflectly"/>
+    <item drawable="shazam"/>
+    <item drawable="steam"/>
+    <item drawable="telegram"/>
+    <item drawable="another_widget"/>
+    <item drawable="clash_royale"/>
+    <item drawable="airtel_tv"/>
+
+    <category title="Action" />
+    <item drawable="pubg" />
+    <item drawable="pubg_beta"/>
+
+    <category title="Communication" />
+    <item drawable="discord" />
+    <item drawable="phone" />
+    <item drawable="whatsapp"/>
+    <item drawable="chrome"/>
+    <item drawable="telegram"/>
+
+    <category title="Entertainment"/>
+    <item drawable="steam"/>
+    <item drawable="airtel_tv"/>
+
+    <category title="Health and Fitness"/>
+    <item drawable="reflectly"/>
+
+    <category title="Music"/>
+    <item drawable="viper4android"/>
+    <item drawable="automatag"/>
+    <item drawable="musicfx"/>
+    <item drawable="musixmatch"/>
+    <item drawable="shazam"/>
+
+    <category title="Personalization"/>
+    <item drawable="aexpapers"/>
+    <item drawable="another_widget"/>
+
+    <category title="Photography"/>
+    <item drawable="camera"/>
+    <item drawable="google_camera"/>
+
+    <category title="Productivity"/>
+    <item drawable="airtel"/>
+    <item drawable="keep_notes"/>
+
+    <category title="Shopping"/>
+    <item drawable="amazon"/>
+
+    <category title="Strategy"/>
+    <item drawable="clash_royale"/>
+
+    <category title="Tools"/>
+    <item drawable="calculator"/>
+    <item drawable="authenticator"/>
+    <dynamic-clock drawable="clock"
+        hourLayerIndex="0"
+        minuteLayerIndex="1"
+        secondLayerIndex="2"
+        defaultHour="10"
+        defaultMinute="10"
+        defaultSecond="30" />
+    <item drawable="greenify"/>
+
+    <category title="Trivia"/>
+    <item drawable="quizup"/>
+
+    <category title="Video Players and Editors"/>
+    <item drawable="flud"/>
+
+</resources>

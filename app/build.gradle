@@ -13,37 +13,28 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-// TODO: Remove comment marks to enable
-/*
+
 buildscript {
     repositories {
         maven { url 'https://plugins.gradle.org/m2/' }
     }
     dependencies {
-        classpath 'gradle.plugin.com.onesignal:onesignal-gradle-plugin:0.12.1'
+        classpath 'gradle.plugin.com.onesignal:onesignal-gradle-plugin:0.12.2'
     }
 }
+
 apply plugin: 'com.onesignal.androidsdk.onesignal-gradle-plugin'
-*/
 apply plugin: 'com.android.application'
 apply plugin: 'kotlin-android'
+apply plugin: 'com.google.gms.google-services'
 
 android {
-    signingConfigs {
-        release {
-            keyAlias 'blueprint'
-            keyPassword 'blueprint'
-            storeFile file('blueprint.jks')
-            storePassword 'blueprint'
-        }
-    }
-
     compileSdkVersion versions.targetSdk
     buildToolsVersion versions.buildTools
 
     applicationVariants.all { variant ->
         variant.outputs.all { output ->
-            outputFileName = "Blueprint-v${variant.versionName}-${variant.name}.apk"
+            outputFileName = "MyBlueprintApp-v${variant.versionName}-${variant.name}.apk"
         }
     }
 
@@ -54,18 +45,15 @@ android {
     }
 
     defaultConfig {
-        // TODO: Remove comment marks to enable
-        /*
-        manifestPlaceholders = [onesignal_app_id               : "abcd-1234-efgh-5678",
+        manifestPlaceholders = [onesignal_app_id               : "edcbfaca-0078-44a9-aa52-9b3418b79d49",
                                 // Project number pulled from dashboard, local value is ignored.
-                                onesignal_google_project_number: "1234567890"]
-                                */
+                                onesignal_google_project_number: "855686822933"]
 
-        applicationId "jahirfiquitiva.apps.blueprint.demo"
+        applicationId "com.aip"
         minSdkVersion versions.minSdk
         targetSdkVersion versions.targetSdk
-        versionCode versions.versionCode
-        versionName versions.versionName
+        versionCode 19842
+        versionName "19.8.4.2"
         vectorDrawables.useSupportLibrary = true
         proguardFiles 'proguard-android-optimize.txt', 'proguard-rules.pro'
         consumerProguardFiles 'proguard-android-optimize.txt', 'proguard-rules.pro'
@@ -80,7 +68,6 @@ android {
             shrinkResources false
             proguardFiles 'proguard-android-optimize.txt', 'proguard-rules.pro'
             consumerProguardFiles 'proguard-android-optimize.txt', 'proguard-rules.pro'
-            signingConfig signingConfigs.release
         }
     }
 
@@ -100,15 +87,19 @@ android {
     }
 
     compileOptions {
+        encoding "UTF-8"
         sourceCompatibility JavaVersion.VERSION_1_8
         targetCompatibility JavaVersion.VERSION_1_8
     }
 }
 
 dependencies {
-    implementation project(path: ':library')
-    // TODO: Remove comment marks to enable
-    // implementation libraries.oneSignal
+    // Blueprint
+    implementation('com.jahirfiquitiva:Blueprint:1.4.6@aar') {
+        transitive = true
+    }
+    implementation libraries.oneSignal
+    implementation 'com.google.firebase:firebase-core:16.0.4'
 }
 
 tasks.whenTaskAdded { task ->
