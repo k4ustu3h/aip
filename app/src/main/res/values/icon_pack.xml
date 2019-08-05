@@ -95,12 +95,12 @@
         <item>whatsapp</item>
         <item>chrome</item>
         <item>telegram</item>
+        <item>google_contacts</item>
     </string-array>
     
     <string-array name="Entertainment">
         <item>steam</item>
         <item>airtel_tv</item>
-        <item>google_contacts</item>
     </string-array>
 
     <string-array name="Health_and_Fitness">
