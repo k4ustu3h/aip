@@ -25,8 +25,7 @@ jdk:
 script: if [[ "$TRAVIS_TAG" ]]; then ./gradlew clean :app:assembleRelease --stacktrace; else ./gradlew clean test --stacktrace; fi
 
 notifications:
-  email: false
-  slack: anothericonpack:Dpg3z1PZp3MXjM2Ne9tWdUOA
+  slack: anothericonpack:LAm0AQJq3uPiRGNv53CCrJ5e
     template:
       - 'Build <%{build_url}|#%{build_number}> (<%{compare_url}|%{commit}: ''%{commit_subject}''>)  by
         %{author} for %{repository_name}@%{branch}, %{result} in %{duration}. <%{build_url}|Check
