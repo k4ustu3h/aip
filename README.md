@@ -1,13 +1,13 @@
 <img src="https://github.com/jahirfiquitiva/Blueprint/raw/master/art/app_logo.png" width="192" align="right" hspace="20" />
 
-Blueprint
+Another Icon Pack
 ======
 
 ![API](https://img.shields.io/badge/API-16%2B-34bf49.svg)
 [![Build Status](https://travis-ci.org/k4ustu3h/aip.svg?branch=master)](https://travis-ci.org/k4ustu3h/aip)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/0851ee843fab45aa9c0de149493a357c)](https://www.codacy.com/app/k4ustu3h/aip?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=k4ustu3h/aip&amp;utm_campaign=Badge_Grade)
 
-A full-of-features, easy-to-customize, free and open source, light-weight, Android dashboard library for icon packs.
+Just Another Icon Pack.
 
 <a target="_blank" href="http://j.mp/BlueprintAPK">
 <img src="https://jahirfiquitiva.com/share/download_sample.svg?maxAge=432000" width="200"/>
