@@ -16,7 +16,7 @@ fi
 # Define send message function. parse_mode can be changed to
 # HTML, depending on how you want to format your message:
 send_msg () {
-    curl -s -X POST ${BOT_URL} -d chat_id=$TELEGRAM_CHAT_ID \
+    curl -s -X POST ${BOT_URL} -d chat_id=$659328272 \
         -d text="$1" -d parse_mode=${PARSE_MODE}
 }
 
