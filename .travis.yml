@@ -24,13 +24,6 @@ jdk:
 
 script: if [[ "$TRAVIS_TAG" ]]; then ./gradlew clean :app:assembleRelease --stacktrace; else ./gradlew clean test --stacktrace; fi
 
-branches:
-  except:
-    - images
-    - gh-pages
-    - travis-build
-    - i18n
-
 notifications:
   email: false
   slack: anothericonpack:Dpg3z1PZp3MXjM2Ne9tWdUOA
