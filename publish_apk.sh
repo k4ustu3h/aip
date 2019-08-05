@@ -48,7 +48,7 @@ if [ "$TRAVIS_PULL_REQUEST" = false ]; then
                 echo "Buttons: ${btns}"
                 printf "\n\n"
 
-                telegramUrl="https://api.telegram.org/bot$931154861:AAGU9U-b_4yu7ih4UGrlhlEf78Ps2V_q2dg/sendMessage?chat_id=@anothericonpack&text=${message}&parse_mode=Markdown&reply_markup=${btns}"
+                telegramUrl="https://api.telegram.org/931154861:AAGU9U-b_4yu7ih4UGrlhlEf78Ps2V_q2dg/sendMessage?chat_id=@anothericonpack&text=${message}&parse_mode=Markdown&reply_markup=${btns}"
                 echo "Telegram url: ${telegramUrl}"
                 printf "\n\n"
                 curl -g "${telegramUrl}"
