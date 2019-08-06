@@ -27,7 +27,7 @@
         class="com.discord/com.discord.app.AppActivity$Main"
         name="discord" />
     <item
-        class="com.android.dialer/com.android.dialer.DialtactsActivity"
+        class="com.android.dialer/com.android.dialer.app.DialtactsActivity"
         name="google_phone"/>
     <item
         class="com.google.android.dialer/com.google.android.dialer.extensions.GoogleDialtactsActivity"

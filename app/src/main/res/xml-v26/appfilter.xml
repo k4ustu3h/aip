@@ -29,7 +29,7 @@
         drawable="discord" />
 
     <item
-        component="ComponentInfo{com.android.dialer/com.android.dialer.DialtactsActivity}"
+        component="ComponentInfo{com.android.dialer/com.android.dialer.app.DialtactsActivity}"
         drawable="google_phone" />
 
     <item

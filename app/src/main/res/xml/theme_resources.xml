@@ -34,7 +34,7 @@
         name="com.discord/com.discord.app.AppActivity$Main"
         image="discord" />
     <AppIcon
-        name="com.android.dialer/com.android.dialer.DialtactsActivity"
+        name="com.android.dialer/com.android.dialer.app.DialtactsActivity"
         image="google_phone"/>
     <AppIcon
         name="com.google.android.dialer/com.google.android.dialer.extensions.GoogleDialtactsActivity"
