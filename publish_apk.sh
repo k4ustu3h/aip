@@ -27,7 +27,7 @@ if [ "$TRAVIS_PULL_REQUEST" = false ]; then
 			apkName="${apk::-4}"
 
 			printf "\n\nUploading: $apkName.apk ...\n"
-			upload=`curl "https://github.com/k4ustu3h/aip/${TRAVIS_REPO_SLUG}/releases/${releaseId}/assets?access_token=$ff80ebde0bf2d0a1369e7d5cb812b116fca88efc&name=${apkName}.apk" --header 'Content-Type: application/zip' --upload-file ${apkName}.apk  -X POST`
+			upload=`curl "https://github.com/k4ustu3h/aip/${TRAVIS_REPO_SLUG}/releases/${releaseId}/assets?access_token=$GITHUB_API_KEY&name=${apkName}.apk" --header 'Content-Type: application/zip' --upload-file ${apkName}.apk  -X POST`
 
 			printf "\n\nUpload Result: $upload\n"
 
