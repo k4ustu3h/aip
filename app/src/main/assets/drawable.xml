@@ -17,13 +17,13 @@
 
 <resources>
 
-    <version>19851</version>
+    <version>19871</version>
 
     <category title="Latest" />
     <item drawable="pubg" />
     <item drawable="authenticator" />
     <item drawable="discord" />
-    <item drawable="google_phone" />
+    <item drawable="custom_navigation_bar" />
     <item drawable="musixmatch"/>
     <item drawable="viper4android"/>
     <item drawable="keep_notes"/>
@@ -65,6 +65,7 @@
     <item drawable="clash_royale"/>
     <item drawable="airtel_tv"/>
     <item drawable="google_contacts"/>
+    <item drawable="custom_navigation_bar"/>
 
     <category title="Action" />
     <item drawable="pubg" />
@@ -121,6 +122,7 @@
         defaultMinute="10"
         defaultSecond="30" />
     <item drawable="greenify"/>
+    <item drawable="custom_navigation_bar"/>
 
     <category title="Trivia"/>
     <item drawable="quizup"/>

@@ -119,5 +119,8 @@
     <item
         class="com.android.contacts/com.android.contacts.activities.PeopleActivity"
         name="google_contacts"/>
+    <item
+        class="xyz.paphonb.systemuituner/xyz.paphonb.systemuituner.ui.HomeActivity"
+        name="custom_navigation_bar"/>
 
 </appmap>

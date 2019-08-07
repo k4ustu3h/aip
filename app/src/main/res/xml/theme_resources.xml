@@ -18,7 +18,7 @@
   ~ 	https://github.com/jahirfiquitiva/IconShowcase#special-thanks
   -->
 
-<Theme version="19842">
+<Theme version="19871">
     <Label value="Another Icon Pack" />
     <Wallpaper image="wallpaper_01" />
     <LockScreenWallpaper image="wallpaper_02" />
@@ -126,5 +126,8 @@
     <AppIcon
         name="com.android.contacts/com.android.contacts.activities.PeopleActivity"
         image="google_contacts"/>
+    <AppIcon
+        name="xyz.paphonb.systemuituner/xyz.paphonb.systemuituner.ui.HomeActivity"
+        image="custom_navigation_bar"/>
 
 </Theme>

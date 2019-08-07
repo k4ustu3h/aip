@@ -23,7 +23,7 @@
         <item>authenticator</item>
         <item>discord</item>
         <item>musixmatch</item>
-        <item>google_phone</item>
+        <item>custom_navigation_bar</item>
         <item>viper4android</item>
         <item>keep_notes</item>
         <item>airtel</item>
@@ -82,6 +82,7 @@
         <item>clash_royale</item>
         <item>airtel_tv</item>
         <item>google_contacts</item>
+        <item>custom_navigation_bar</item>
     </string-array>
 
     <string-array name="Action">
@@ -143,6 +144,7 @@
         <item>authenticator</item>
         <item>clock</item>
         <item>greenify</item>
+        <item>custom_navigation_bar</item>
     </string-array>
 
     <string-array name="Trivia">

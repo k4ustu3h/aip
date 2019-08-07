@@ -130,5 +130,8 @@
     <item
         component="ComponentInfo{com.android.contacts/com.android.contacts.activities.PeopleActivity"
         drawable="google_contacts"/>
+    <item
+        component="ComponentInfo{xyz.paphonb.systemuituner/xyz.paphonb.systemuituner.ui.HomeActivity}"
+        drawable="custom_navigation_bar"/>
 
 </resources>

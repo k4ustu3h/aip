@@ -18,6 +18,12 @@
 
     <!-- fixed theme_resources.xml and appmap.xml -->
 
+    <version title="19.8.7.1"/>
+    <item text="added Custom Navigation Bar"/>
+
+    <version title="19.8.6.1"/>
+    <item text="fixed AOSP Phone"/>
+
     <version title="v19.8.5.1"/>
     <item text="added Google Contacts"/>
     <item text="cropped Google (768 to 1440)"/>

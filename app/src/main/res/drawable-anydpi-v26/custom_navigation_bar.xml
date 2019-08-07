@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?><!--
-  ~ Copyright (c) 2017 Jahir Fiquitiva
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2019.
   ~
   ~ Licensed under the CreativeCommons Attribution-ShareAlike
   ~ 4.0 International License. You may not use this file except in compliance
@@ -12,19 +13,8 @@
   ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
   ~ See the License for the specific language governing permissions and
   ~ limitations under the License.
-  ~
-  ~ Special thanks to the project contributors and collaborators
-  ~ 	https://github.com/jahirfiquitiva/IconShowcase#special-thanks
   -->
-
-<!-- This is for Atom Launcher -->
-<themeInfo>
-    <packageName>com.aip</packageName>
-    <versionName>19.8.7.1</versionName>
-    <versionCode>19871</versionCode>
-    <themeName>Another Icon Pack</themeName>
-    <!-- Default Component Color -->
-    <themePointColor>#00b0ff</themePointColor>
-    <themePreview img1="preview1" />
-    <preview img1="preview1" />
-</themeInfo>
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+    <background android:drawable="@mipmap/custom_navigation_bar_background"/>
+    <foreground android:drawable="@mipmap/custom_navigation_bar_foreground"/>
+</adaptive-icon>
