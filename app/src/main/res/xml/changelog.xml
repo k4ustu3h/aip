@@ -16,7 +16,33 @@
   -->
 <resources>
 
-    <!-- fixed theme_resources.xml and appmap.xml -->
+    <version title="v19.8.26.1"/>
+    <item text="updated Viper4Android, WhatsApp according to new AIP Guidelines"/>
+    <item text="added coloros Calculator"/>
+    <item text="removed Clock"/>
+
+    <version title="v19.8.25.1"/>
+    <item text="updated Steam, Telegram according to new AIP Guidelines"/>
+    <item text="fixed appfilter.xml for coloros Camera"/>
+
+    <version title="v19.8.24.1"/>
+    <item text="updated Musixmatch according to its guidelines"/>
+    <item text="added coloros Camera"/>
+    <item text="updated Musixmatch, PUBG, PUBG beta, Quizup, Shazam according to new AIP Guidelines"/>
+
+    <version title="v19.8.23.1"/>
+    <item text="updated MusicFX according to new AIP Guidelines"/>
+
+    <version title="v19.8.21.2"/>
+    <item text="updated AEXPapers, Airtel, Amazon, Another Widget, Automatag, Discord, Greenify, Keep Notes according to new AIP Guidelines"/>
+
+    <version title="v19.8.21.1"/>
+    <item text="changed AOSP Camera"/>
+    <item text="added CodeAurora SnapCam"/>
+    <item text="removed Airtel TV"/>
+
+    <version title="v19.8.20.1"/>
+    <item text="changed Google Camera"/>
 
     <version title="19.8.7.1"/>
     <item text="added Custom Navigation Bar"/>
@@ -43,7 +69,7 @@
     <version title="v19.8.1.1"/>
     <item text="added category Strategy"/>
     <item text="added Clash Royale"/>
-    <item text="removed Wallpapers for now"/>
+    <item text="removed Wallpapers tab"/>
 
     <version title="v19.7.31.1"/>
     <item text="added Another Widget"/>

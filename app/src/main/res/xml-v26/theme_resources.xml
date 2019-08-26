@@ -18,7 +18,7 @@
   ~ 	https://github.com/jahirfiquitiva/IconShowcase#special-thanks
   -->
 
-<Theme version="19871">
+<Theme version="198261">
     <Label value="Another Icon Pack" />
     <Wallpaper image="wallpaper_01" />
     <LockScreenWallpaper image="wallpaper_02" />
@@ -69,9 +69,6 @@
     <AppIcon
         name="com.google.android.apps.authenticator2/com.google.android.apps.authenticator.AuthenticatorActivity"
         image="authenticator"/>
-    <AdaptiveIcon
-        name="com.google.android.deskclock/com.android.deskclock.DeskClock"
-        image="clock"/>
     <AppIcon
         name="com.fillobotto.mp3tagger/activities.MainActivity"
         image="automatag"/>
@@ -118,9 +115,6 @@
         name="com.supercell.clashroyale/com.supercell.clashroyale.GameApp"
         image="clash_royale"/>
     <AppIcon
-        name="tv.accedo.airtel.wynk/tv.accedo.airtel.wynk.presentation.view.activity.SplashActivity"
-        image="airtel_tv"/>
-    <AppIcon
         name="com.google.android.contacts/com.android.contacts.activities.PeopleActivity"
         image="google_contacts"/>
     <AppIcon
@@ -129,5 +123,14 @@
     <AppIcon
         name="xyz.paphonb.systemuituner/xyz.paphonb.systemuituner.ui.HomeActivity"
         image="custom_navigation_bar"/>
+    <AppIcon
+        name="org.codeaurora.snapcam/com.android.camera.CameraLauncher"
+        image="codeaurora_snapcam"/>
+    <AppIcon
+        name="com.oppo.camera/com.oppo.camera.Camera"
+        image="coloros_camera"/>
+    <AppIcon
+        name="com.coloros.calculator/com.android.calculator2.Calculator"
+        image="coloros_calculator"/>
 
 </Theme>

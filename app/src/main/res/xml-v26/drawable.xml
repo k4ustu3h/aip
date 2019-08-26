@@ -17,7 +17,7 @@
 
 <resources>
 
-    <version>19871</version>
+    <version>198261</version>
 
     <category title="Latest" />
     <item drawable="pubg" />
@@ -42,13 +42,6 @@
     <item drawable="calculator"/>
     <item drawable="keep_notes"/>
     <item drawable="authenticator"/>
-    <dynamic-clock drawable="clock"
-        hourLayerIndex="0"
-        minuteLayerIndex="1"
-        secondLayerIndex="2"
-        defaultHour="10"
-        defaultMinute="10"
-        defaultSecond="30" />
     <item drawable="automatag"/>
     <item drawable="pubg_beta"/>
     <item drawable="aexpapers"/>
@@ -63,9 +56,11 @@
     <item drawable="telegram"/>
     <item drawable="another_widget"/>
     <item drawable="clash_royale"/>
-    <item drawable="airtel_tv"/>
     <item drawable="google_contacts"/>
     <item drawable="custom_navigation_bar"/>
+    <item drawable="codeaurora_snapcam"/>
+    <item drawable="coloros_camera"/>
+    <item drawable="coloros_calculator"/>
 
     <category title="Action" />
     <item drawable="pubg" />
@@ -81,7 +76,6 @@
 
     <category title="Entertainment"/>
     <item drawable="steam"/>
-    <item drawable="airtel_tv"/>
 
     <category title="Health and Fitness"/>
     <item drawable="reflectly"/>
@@ -100,6 +94,8 @@
     <category title="Photography"/>
     <item drawable="camera"/>
     <item drawable="google_camera"/>
+    <item drawable="codeaurora_snapcam"/>
+    <item drawable="coloros_camera"/>
 
     <category title="Productivity"/>
     <item drawable="airtel"/>
@@ -114,15 +110,9 @@
     <category title="Tools"/>
     <item drawable="calculator"/>
     <item drawable="authenticator"/>
-    <dynamic-clock drawable="clock"
-        hourLayerIndex="0"
-        minuteLayerIndex="1"
-        secondLayerIndex="2"
-        defaultHour="10"
-        defaultMinute="10"
-        defaultSecond="30" />
     <item drawable="greenify"/>
     <item drawable="custom_navigation_bar"/>
+    <item drawable="coloros_calculator"/>
 
     <category title="Trivia"/>
     <item drawable="quizup"/>

@@ -74,3 +74,5 @@
 
 -dontwarn
 -ignorewarnings
+
+-keepattributes InnerClasses

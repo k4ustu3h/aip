@@ -15,6 +15,6 @@
   ~ limitations under the License.
   -->
 <adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
-    <background android:drawable="@mipmap/pubg_background"/>
-    <foreground android:drawable="@mipmap/pubg_beta_foreground"/>
+    <background android:drawable="@mipmap/codeaurora_snapcam_background"/>
+    <foreground android:drawable="@mipmap/codeaurora_snapcam_foreground"/>
 </adaptive-icon>

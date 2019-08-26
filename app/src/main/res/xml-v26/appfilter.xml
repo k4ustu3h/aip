@@ -67,15 +67,6 @@
     <item
         component="ComponentInfo{com.google.android.apps.authenticator2/com.google.android.apps.authenticator.AuthenticatorActivity}"
         drawable="authenticator"/>
-    <dynamic-clock
-        component="ComponentInfo{com.google.android.deskclock/com.android.deskclock.DeskClock}"
-        drawable="clock"
-        hourLayerIndex="0"
-        minuteLayerIndex="1"
-        secondLayerIndex="2"
-        defaultHour="10"
-        defaultMinute="10"
-        defaultSecond="30" />
     <item
         component="ComponentInfo{com.fillobotto.mp3tagger/activities.MainActivity}"
         drawable="automatag"/>
@@ -122,9 +113,6 @@
         component="ComponentInfo{com.supercell.clashroyale/com.supercell.clashroyale.GameApp}"
         drawable="clash_royale"/>
     <item
-        component="ComponentInfo{tv.accedo.airtel.wynk/tv.accedo.airtel.wynk.presentation.view.activity.SplashActivity}"
-        drawable="airtel_tv"/>
-    <item
         component="ComponentInfo{com.google.android.contacts/com.android.contacts.activities.PeopleActivity"
         drawable="google_contacts"/>
     <item
@@ -133,5 +121,14 @@
     <item
         component="ComponentInfo{xyz.paphonb.systemuituner/xyz.paphonb.systemuituner.ui.HomeActivity}"
         drawable="custom_navigation_bar"/>
+    <item
+        component="ComponentInfo{org.codeaurora.snapcam/com.android.camera.CameraLauncher}"
+        drawable="codeaurora_snapcam"/>
+    <item
+        component="ComponentInfo{com.oppo.camera/com.oppo.camera.Camera}"
+        drawable="coloros_camera"/>
+    <item
+        component="ComponentInfo{com.coloros.calculator/com.android.calculator2.Calculator}"
+        drawable="coloros_calculator"/>
 
 </resources>

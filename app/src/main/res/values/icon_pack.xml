@@ -64,7 +64,6 @@
         <item>calculator</item>
         <item>keep_notes</item>
         <item>authenticator</item>
-        <item>clock</item>
         <item>automatag</item>
         <item>pubg_beta</item>
         <item>aexpapers</item>
@@ -80,9 +79,11 @@
         <item>telegram</item>
         <item>another_widget</item>
         <item>clash_royale</item>
-        <item>airtel_tv</item>
         <item>google_contacts</item>
         <item>custom_navigation_bar</item>
+        <item>codeaurora_snapcam</item>
+        <item>coloros_camera</item>
+        <item>coloros_calculator</item>
     </string-array>
 
     <string-array name="Action">
@@ -101,7 +102,6 @@
     
     <string-array name="Entertainment">
         <item>steam</item>
-        <item>airtel_tv</item>
     </string-array>
 
     <string-array name="Health_and_Fitness">
@@ -124,6 +124,8 @@
     <string-array name="Photography">
         <item>camera</item>
         <item>google_camera</item>
+        <item>codeaurora_snapcam</item>
+        <item>coloros_camera</item>
     </string-array>
 
     <string-array name="Productivity">
@@ -142,9 +144,9 @@
     <string-array name="Tools">
         <item>calculator</item>
         <item>authenticator</item>
-        <item>clock</item>
         <item>greenify</item>
         <item>custom_navigation_bar</item>
+        <item>coloros_calculator</item>
     </string-array>
 
     <string-array name="Trivia">

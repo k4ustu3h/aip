@@ -62,9 +62,6 @@
     <item
         class="com.google.android.apps.authenticator2/com.google.android.apps.authenticator.AuthenticatorActivity"
         name="authenticator"/>
-    <adaptive-icon
-        class="com.google.android.deskclock/com.android.deskclock.DeskClock"
-        name="clock"/>
     <item
         class="com.fillobotto.mp3tagger/activities.MainActivity"
         name="automatag"/>
@@ -111,9 +108,6 @@
         class="com.supercell.clashroyale/com.supercell.clashroyale.GameApp"
         name="clash_royale"/>
     <item
-        class="tv.accedo.airtel.wynk/tv.accedo.airtel.wynk.presentation.view.activity.SplashActivity"
-        name="airtel_tv"/>
-    <item
         class="com.google.android.contacts/com.android.contacts.activities.PeopleActivity"
         name="google_contacts"/>
     <item
@@ -122,5 +116,14 @@
     <item
         class="xyz.paphonb.systemuituner/xyz.paphonb.systemuituner.ui.HomeActivity"
         name="custom_navigation_bar"/>
+    <item
+        class="org.codeaurora.snapcam/com.android.camera.CameraLauncher"
+        name="codeaurora_snapcam"/>
+    <item
+        class="com.oppo.camera/com.oppo.camera.Camera"
+        name="coloros_camera"/>
+    <item
+        class="com.coloros.calculator/com.android.calculator2.Calculator"
+        name="coloros_calculator"/>
 
 </appmap>
