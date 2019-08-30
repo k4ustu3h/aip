@@ -18,7 +18,7 @@
   ~ 	https://github.com/jahirfiquitiva/IconShowcase#special-thanks
   -->
 
-<Theme version="198261">
+<Theme version="198301">
     <Label value="Another Icon Pack" />
     <Wallpaper image="wallpaper_01" />
     <LockScreenWallpaper image="wallpaper_02" />
@@ -132,5 +132,11 @@
     <AppIcon
         name="com.coloros.calculator/com.android.calculator2.Calculator"
         image="coloros_calculator"/>
+    <AppIcon
+        name="com.ninjakiwi.bloonstd6/com.unity3d.player.UnityPlayerActivity"
+        image="bloons_td_6"/>
+    <AppIcon
+        name="com.google.android.apps.wellbeing/com.google.android.apps.wellbeing.settings.LauncherActivity"
+        image="digital_wellbeing"/>
 
 </Theme>

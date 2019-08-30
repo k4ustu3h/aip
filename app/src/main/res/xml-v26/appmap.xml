@@ -125,5 +125,11 @@
     <item
         class="com.coloros.calculator/com.android.calculator2.Calculator"
         name="coloros_calculator"/>
+    <item
+        class="com.ninjakiwi.bloonstd6/com.unity3d.player.UnityPlayerActivity"
+        name="bloons_td_6"/>
+    <item
+        class="com.google.android.apps.wellbeing/com.google.android.apps.wellbeing.settings.LauncherActivity"
+        name="digital_wellbeing"/>
 
 </appmap>

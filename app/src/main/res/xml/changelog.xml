@@ -16,6 +16,12 @@
   -->
 <resources>
 
+    <version title="v19.8.30.1"/>
+    <item text="cropped Bloons TD 6 to full bleed"/>
+
+    <version title="v19.8.29.1"/>
+    <item text="added Bloons TD 6, Digital Wellbeing"/>
+
     <version title="v19.8.26.1"/>
     <item text="updated Viper4Android, WhatsApp according to new AIP Guidelines"/>
     <item text="added coloros Calculator"/>

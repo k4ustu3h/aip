@@ -20,8 +20,8 @@
 <!-- This is for Atom Launcher -->
 <themeInfo>
     <packageName>com.aip</packageName>
-    <versionName>19.8.26.1</versionName>
-    <versionCode>198261</versionCode>
+    <versionName>19.8.30.1</versionName>
+    <versionCode>198301</versionCode>
     <themeName>Another Icon Pack</themeName>
     <!-- Default Component Color -->
     <themePointColor>#00b0ff</themePointColor>

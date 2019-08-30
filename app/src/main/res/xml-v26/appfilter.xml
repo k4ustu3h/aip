@@ -130,5 +130,11 @@
     <item
         component="ComponentInfo{com.coloros.calculator/com.android.calculator2.Calculator}"
         drawable="coloros_calculator"/>
+    <item
+        component="ComponentInfo{com.ninjakiwi.bloonstd6/com.unity3d.player.UnityPlayerActivity}"
+        drawable="bloons_td_6"/>
+    <item
+        component="ComponentInfo{com.google.android.apps.wellbeing/com.google.android.apps.wellbeing.settings.LauncherActivity}"
+        drawable="digital_wellbeing"/>
 
 </resources>

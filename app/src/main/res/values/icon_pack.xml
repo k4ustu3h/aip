@@ -84,6 +84,8 @@
         <item>codeaurora_snapcam</item>
         <item>coloros_camera</item>
         <item>coloros_calculator</item>
+        <item>bloons_td_6</item>
+        <item>digital_wellbeing</item>
     </string-array>
 
     <string-array name="Action">
@@ -139,6 +141,7 @@
 
     <string-array name="Strategy">
         <item>clash_royale</item>
+        <item>bloons_td_6</item>
     </string-array>
 
     <string-array name="Tools">
@@ -147,6 +150,7 @@
         <item>greenify</item>
         <item>custom_navigation_bar</item>
         <item>coloros_calculator</item>
+        <item>digital_wellbeing</item>
     </string-array>
 
     <string-array name="Trivia">

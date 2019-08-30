@@ -29,12 +29,12 @@ apply plugin: 'kotlin-android'
 apply plugin: 'com.google.gms.google-services'
 
 android {
-    compileSdkVersion versions.targetSdk
+    compileSdkVersion 28
     buildToolsVersion versions.buildTools
 
     applicationVariants.all { variant ->
         variant.outputs.all { output ->
-            outputFileName = "MyBlueprintApp-v${variant.versionName}-${variant.name}.apk"
+            outputFileName = "AnotherIconPack-v${variant.versionName}-${variant.name}.apk"
         }
     }
 
@@ -52,8 +52,8 @@ android {
         applicationId "com.aip"
         minSdkVersion versions.minSdk
         targetSdkVersion versions.targetSdk
-        versionCode 198261
-        versionName "19.8.26.1"
+        versionCode 198301
+        versionName "19.8.30.1"
         vectorDrawables.useSupportLibrary = true
         proguardFiles 'proguard-android-optimize.txt', 'proguard-rules.pro'
         consumerProguardFiles 'proguard-android-optimize.txt', 'proguard-rules.pro'

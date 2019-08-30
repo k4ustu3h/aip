@@ -17,7 +17,7 @@
 
 <resources>
 
-    <version>198261</version>
+    <version>198301</version>
 
     <category title="Latest" />
     <item drawable="pubg" />
@@ -61,6 +61,8 @@
     <item drawable="codeaurora_snapcam"/>
     <item drawable="coloros_camera"/>
     <item drawable="coloros_calculator"/>
+    <item drawable="bloons_td_6"/>
+    <item drawable="digital_wellbeing"/>
 
     <category title="Action" />
     <item drawable="pubg" />
@@ -106,6 +108,7 @@
 
     <category title="Strategy"/>
     <item drawable="clash_royale"/>
+    <item drawable="bloons_td_6"/>
 
     <category title="Tools"/>
     <item drawable="calculator"/>
@@ -113,6 +116,7 @@
     <item drawable="greenify"/>
     <item drawable="custom_navigation_bar"/>
     <item drawable="coloros_calculator"/>
+    <item drawable="digital_wellbeing"/>
 
     <category title="Trivia"/>
     <item drawable="quizup"/>
