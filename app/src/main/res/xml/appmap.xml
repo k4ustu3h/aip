@@ -131,5 +131,14 @@
     <item
         class="com.google.android.apps.wellbeing/com.google.android.apps.wellbeing.settings.LauncherActivity"
         name="digital_wellbeing"/>
+    <item
+        class="com.tachibana.downloader/com.tachibana.downloader.MainActivity"
+        name="download_navi"/>
+    <item
+        class="com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity"
+        name="google_drive"/>
+    <item
+        class="com.google.android.apps.tachyon/com.google.android.apps.tachyon.MainActivity"
+        name="google_duo"/>
 
 </appmap>

@@ -16,6 +16,15 @@
   -->
 <resources>
 
+    <version title="v19.9.4.1"/>
+    <item text="added Google Duo"/>
+
+    <version title="v19.9.1.1"/>
+    <item text="added Google Drive"/>
+
+    <version title="v19.8.31.1"/>
+    <item text="added Download Navi"/>
+
     <version title="v19.8.30.1"/>
     <item text="cropped Bloons TD 6 to full bleed"/>
 

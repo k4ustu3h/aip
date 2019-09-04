@@ -136,5 +136,14 @@
     <item
         component="ComponentInfo{com.google.android.apps.wellbeing/com.google.android.apps.wellbeing.settings.LauncherActivity}"
         drawable="digital_wellbeing"/>
+    <item
+        component="ComponentInfo{com.tachibana.downloader/com.tachibana.downloader.MainActivity}"
+        drawable="download_navi"/>
+    <item
+        component="ComponentInfo{com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity}"
+        drawable="google_drive"/>
+    <item
+        component="ComponentInfo{com.google.android.apps.tachyon/com.google.android.apps.tachyon.MainActivity}"
+        drawable="google_duo"/>
 
 </resources>

@@ -18,7 +18,7 @@
   ~ 	https://github.com/jahirfiquitiva/IconShowcase#special-thanks
   -->
 
-<Theme version="198301">
+<Theme version="19941">
     <Label value="Another Icon Pack" />
     <Wallpaper image="wallpaper_01" />
     <LockScreenWallpaper image="wallpaper_02" />
@@ -138,5 +138,14 @@
     <AppIcon
         name="com.google.android.apps.wellbeing/com.google.android.apps.wellbeing.settings.LauncherActivity"
         image="digital_wellbeing"/>
+    <AppIcon
+        name="com.tachibana.downloader/com.tachibana.downloader.MainActivity"
+        image="download_navi"/>
+    <AppIcon
+        name="com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity"
+        image="google_drive"/>
+    <AppIcon
+        name="com.google.android.apps.tachyon/com.google.android.apps.tachyon.MainActivity"
+        image="google_duo"/>
 
 </Theme>

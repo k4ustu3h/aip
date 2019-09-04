@@ -86,6 +86,9 @@
         <item>coloros_calculator</item>
         <item>bloons_td_6</item>
         <item>digital_wellbeing</item>
+        <item>download_navi</item>
+        <item>google_drive</item>
+        <item>google_duo</item>
     </string-array>
 
     <string-array name="Action">
@@ -100,6 +103,7 @@
         <item>chrome</item>
         <item>telegram</item>
         <item>google_contacts</item>
+        <item>google_duo</item>
     </string-array>
     
     <string-array name="Entertainment">
@@ -133,6 +137,7 @@
     <string-array name="Productivity">
         <item>airtel</item>
         <item>keep_notes</item>
+        <item>google_drive</item>
     </string-array>
 
     <string-array name="Shopping">
@@ -151,6 +156,7 @@
         <item>custom_navigation_bar</item>
         <item>coloros_calculator</item>
         <item>digital_wellbeing</item>
+        <item>download_navi</item>
     </string-array>
 
     <string-array name="Trivia">

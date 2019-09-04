@@ -52,8 +52,8 @@ android {
         applicationId "com.aip"
         minSdkVersion versions.minSdk
         targetSdkVersion versions.targetSdk
-        versionCode 198301
-        versionName "19.8.30.1"
+        versionCode 19941
+        versionName "19.9.4.1"
         vectorDrawables.useSupportLibrary = true
         proguardFiles 'proguard-android-optimize.txt', 'proguard-rules.pro'
         consumerProguardFiles 'proguard-android-optimize.txt', 'proguard-rules.pro'

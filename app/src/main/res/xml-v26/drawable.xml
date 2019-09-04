@@ -17,7 +17,7 @@
 
 <resources>
 
-    <version>198301</version>
+    <version>19941</version>
 
     <category title="Latest" />
     <item drawable="pubg" />
@@ -63,6 +63,9 @@
     <item drawable="coloros_calculator"/>
     <item drawable="bloons_td_6"/>
     <item drawable="digital_wellbeing"/>
+    <item drawable="download_navi"/>
+    <item drawable="google_drive"/>
+    <item drawable="google_duo"/>
 
     <category title="Action" />
     <item drawable="pubg" />
@@ -75,6 +78,7 @@
     <item drawable="chrome"/>
     <item drawable="telegram"/>
     <item drawable="google_contacts"/>
+    <item drawable="google_duo"/>
 
     <category title="Entertainment"/>
     <item drawable="steam"/>
@@ -92,6 +96,7 @@
     <category title="Personalization"/>
     <item drawable="aexpapers"/>
     <item drawable="another_widget"/>
+    <item drawable="google_drive"/>
 
     <category title="Photography"/>
     <item drawable="camera"/>
@@ -117,6 +122,7 @@
     <item drawable="custom_navigation_bar"/>
     <item drawable="coloros_calculator"/>
     <item drawable="digital_wellbeing"/>
+    <item drawable="download_navi"/>
 
     <category title="Trivia"/>
     <item drawable="quizup"/>
