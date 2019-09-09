@@ -17,7 +17,7 @@
 
 <resources>
 
-    <version>19941</version>
+    <version>19991</version>
 
     <category title="Latest" />
     <item drawable="pubg" />
@@ -66,6 +66,9 @@
     <item drawable="download_navi"/>
     <item drawable="google_drive"/>
     <item drawable="google_duo"/>
+    <item drawable="facebook"/>
+    <item drawable="fasthub"/>
+    <item drawable="files"/>
 
     <category title="Action" />
     <item drawable="pubg" />
@@ -107,6 +110,11 @@
     <category title="Productivity"/>
     <item drawable="airtel"/>
     <item drawable="keep_notes"/>
+    <item drawable="google_drive"/>
+    <item drawable="fasthub"/>
+
+    <category title="Social"/>
+    <item drawable="facebook"/>
 
     <category title="Shopping"/>
     <item drawable="amazon"/>
@@ -123,6 +131,7 @@
     <item drawable="coloros_calculator"/>
     <item drawable="digital_wellbeing"/>
     <item drawable="download_navi"/>
+    <item drawable="files"/>
 
     <category title="Trivia"/>
     <item drawable="quizup"/>

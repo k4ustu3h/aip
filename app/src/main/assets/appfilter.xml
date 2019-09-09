@@ -145,5 +145,14 @@
     <item
         component="ComponentInfo{com.google.android.apps.tachyon/com.google.android.apps.tachyon.MainActivity}"
         drawable="google_duo"/>
+    <item
+        component="ComponentInfo{com.facebook.katana/com.facebook.katana.LoginActivity}"
+        drawable="facebook"/>
+    <item
+        component="ComponentInfo{com.fastaccess.github/com.fastaccess.ui.modules.main.MainActivity}"
+        drawable="fasthub"/>
+    <item
+        component="ComponentInfo{com.android.documentsui/com.android.documentsui.LauncherActivity}"
+        drawable="files"/>
 
 </resources>

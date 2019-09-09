@@ -16,6 +16,17 @@
   -->
 <resources>
 
+    <version title="v19.9.9.1"/>
+    <item text="repositioned FastHub"/>
+    <item text="added Files"/>
+
+    <version title="v19.9.7.1"/>
+    <item text="added FastHub"/>
+
+    <version title="v19.9.5.1"/>
+    <item text="added category Social"/>
+    <item text="added Facebook"/>
+
     <version title="v19.9.4.1"/>
     <item text="added Google Duo"/>
 

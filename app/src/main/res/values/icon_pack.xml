@@ -44,6 +44,7 @@
         <item>Personalization</item>
         <item>Photography</item>
         <item>Productivity</item>
+        <item>Social</item>
         <item>Shopping</item>
         <item>Strategy</item>
         <item>Tools</item>
@@ -89,6 +90,9 @@
         <item>download_navi</item>
         <item>google_drive</item>
         <item>google_duo</item>
+        <item>facebook</item>
+        <item>fasthub</item>
+        <item>files</item>
     </string-array>
 
     <string-array name="Action">
@@ -138,6 +142,11 @@
         <item>airtel</item>
         <item>keep_notes</item>
         <item>google_drive</item>
+        <item>fasthub</item>
+    </string-array>
+
+    <string-array name="Social">
+        <item>facebook</item>
     </string-array>
 
     <string-array name="Shopping">
@@ -157,6 +166,7 @@
         <item>coloros_calculator</item>
         <item>digital_wellbeing</item>
         <item>download_navi</item>
+        <item>files</item>
     </string-array>
 
     <string-array name="Trivia">

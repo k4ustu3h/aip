@@ -18,7 +18,7 @@
   ~ 	https://github.com/jahirfiquitiva/IconShowcase#special-thanks
   -->
 
-<Theme version="19941">
+<Theme version="19991">
     <Label value="Another Icon Pack" />
     <Wallpaper image="wallpaper_01" />
     <LockScreenWallpaper image="wallpaper_02" />
@@ -147,5 +147,14 @@
     <AppIcon
         name="com.google.android.apps.tachyon/com.google.android.apps.tachyon.MainActivity"
         image="google_duo"/>
+    <AppIcon
+        name="com.facebook.katana/com.facebook.katana.LoginActivity"
+        image="facebook"/>
+    <AppIcon
+        name="com.fastaccess.github/com.fastaccess.ui.modules.main.MainActivity"
+        image="fasthub"/>
+    <AppIcon
+        name="com.android.documentsui/com.android.documentsui.LauncherActivity"
+        image="files"/>
 
 </Theme>

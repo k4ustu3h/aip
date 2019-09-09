@@ -140,5 +140,14 @@
     <item
         class="com.google.android.apps.tachyon/com.google.android.apps.tachyon.MainActivity"
         name="google_duo"/>
+    <item
+        class="com.facebook.katana/com.facebook.katana.LoginActivity"
+        name="facebook"/>
+    <item
+        class="com.fastaccess.github/com.fastaccess.ui.modules.main.MainActivity"
+        name="fasthub"/>
+    <item
+        class="com.android.documentsui/com.android.documentsui.LauncherActivity"
+        name="files"/>
 
 </appmap>
