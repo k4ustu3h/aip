@@ -3,7 +3,7 @@ language: android
 env:
   global:
     - ANDROID_API=29
-    - ANDROID_BUILD_TOOLS=29.0.0
+    - ANDROID_BUILD_TOOLS=29.0.2
 
 android:
   components:
@@ -15,14 +15,16 @@ android:
     - extra-google-m2repository
     - extra-android-m2repository
 
+licenses:
+    - '.+'
+
 before_install:
+  - rm -f $HOME/.gradle/caches/modules-2/modules-2.lock
+  - rm -fr $HOME/.gradle/caches/*/plugin-resolution/
   - yes | sdkmanager "platforms;android-$ANDROID_API"
   - yes | sdkmanager "build-tools;$ANDROID_BUILD_TOOLS"
 
-jdk:
-  - oraclejdk8
-
-script: if [[ "$TRAVIS_TAG" ]]; then ./gradlew clean :app:assembleRelease --stacktrace; else ./gradlew clean test --stacktrace; fi
+script: ./gradlew clean test --full-stacktrace
 
 notifications:
   slack: anothericonpack:LAm0AQJq3uPiRGNv53CCrJ5e
@@ -46,7 +48,8 @@ cache:
 before_script:
   - rm -rf $TRAVIS_BUILD_DIR/app/build/outputs
   - chmod +x gradlew
-  
+  - chmod +x gradle/wrapper/gradle-wrapper.jar
+
 after_script:
   - bash ./telegram_notification.sh
   - chmod +x ./publish_apk.sh; ./publish_apk.sh
