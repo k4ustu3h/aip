@@ -14,14 +14,16 @@
   ~ limitations under the License.
   -->
 
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<manifest
+    android:versionName="v19.9.13.1"
+    android:versionCode="199131"
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     package="com.aip">
 
     <!-- Permission required for donations -->
     <uses-permission android:name="com.android.vending.BILLING" />
 
-    <!--suppress AndroidUnknownAttribute -->
     <application
         android:name=".MyApplication"
         android:allowBackup="true"
@@ -46,7 +48,6 @@
         <!-- TODO: Remove comment marks to enable Kustom Skins
         * Remove intent-filter action lines according to your needs.
 		* If you're not going to provide one of the options, remove its respective line.
-
         <provider
                 android:name="org.kustom.api.Provider"
                 android:authorities="${applicationId}.kustom.provider"
@@ -62,7 +63,6 @@
         -->
 
         <!-- OneSignal Notifications Service -->
-
         <service
                 android:name=".NotificationService"
                 android:permission="android.permission.BIND_JOB_SERVICE"

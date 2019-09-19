@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2018. Jahir Fiquitiva
+ * Copyright (c) 2019. Jahir Fiquitiva
  *
  * Licensed under the CreativeCommons Attribution-ShareAlike
  * 4.0 International License. You may not use this file except in compliance
@@ -15,7 +15,7 @@
  */
 package com.aip
 
-import jahirfiquitiva.libs.blueprint.ui.BlueprintApp
+import jahirfiquitiva.libs.blueprint.BlueprintApp
 import com.onesignal.OneSignal
 
 class MyApplication : BlueprintApp() {

@@ -1,4 +1,8 @@
 language: android
+dist: trusty
+sudo: false
+jdk:
+  - oraclejdk8
 
 env:
   global:
@@ -14,8 +18,7 @@ android:
     - extra-android-support
     - extra-google-m2repository
     - extra-android-m2repository
-
-licenses:
+  licenses:
     - '.+'
 
 before_install:
@@ -26,17 +29,24 @@ before_install:
 
 script: ./gradlew clean test --full-stacktrace
 
+branches:
+  except:
+    - images
+    - gh-pages
+    - travis-build
+    - i18n
+
 notifications:
-  slack: anothericonpack:LAm0AQJq3uPiRGNv53CCrJ5e
-  template:
-      - "Build <%{build_url}|#%{build_number}> (<%{compare_url}|%{commit}>) of %{repository_slug}@%{branch} by %{author} %{result} in %{duration}"
-
-sudo: false
-
+  email: false
+  slack:
+    rooms: anothericonpack:LAm0AQJq3uPiRGNv53CCrJ5e
+    template:
+      - 'Build <%{build_url}|#%{build_number}> (<%{compare_url}|%{commit}: ''%{commit_subject}''>)  by
+        %{author} for %{repository_name}@%{branch}, %{result} in %{duration}. <%{build_url}|Check
+        details>.'
 before_cache:
   - rm -f $HOME/.gradle/caches/modules-2/modules-2.lock
   - rm -fr $HOME/.gradle/caches/*/plugin-resolution/
-
 cache:
   directories:
     - "$HOME/.android/build-cache"
@@ -44,12 +54,6 @@ cache:
     - "$HOME/.gradle"
     - "$HOME/.gradle/caches/"
     - "$HOME/.gradle/wrapper/"
-
 before_script:
-  - rm -rf $TRAVIS_BUILD_DIR/app/build/outputs
   - chmod +x gradlew
   - chmod +x gradle/wrapper/gradle-wrapper.jar
-
-after_script:
-  - bash ./telegram_notification.sh
-  - chmod +x ./publish_apk.sh; ./publish_apk.sh
