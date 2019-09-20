@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2018. Jahir Fiquitiva
+ * Copyright (c) 2019. Jahir Fiquitiva
  *
  * Licensed under the CreativeCommons Attribution-ShareAlike
  * 4.0 International License. You may not use this file except in compliance
@@ -30,7 +30,7 @@ apply plugin: 'com.google.gms.google-services'
 apply plugin: 'kotlin-kapt'
 
 android {
-    compileSdkVersion 28
+    compileSdkVersion versions.targetSdk
     buildToolsVersion versions.buildTools
 
     applicationVariants.all { variant ->
@@ -53,8 +53,8 @@ android {
         applicationId "com.aip"
         minSdkVersion versions.minSdk
         targetSdkVersion versions.targetSdk
-        versionCode 199131
-        versionName "19.9.13.1"
+        versionCode 199202
+        versionName "19.9.20.2"
         vectorDrawables.useSupportLibrary = true
         proguardFiles 'proguard-android-optimize.txt', 'proguard-rules.pro'
         consumerProguardFiles 'proguard-android-optimize.txt', 'proguard-rules.pro'

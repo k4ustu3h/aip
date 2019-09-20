@@ -15,6 +15,6 @@
   ~ limitations under the License.
   -->
 <adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
-    <background android:drawable="@mipmap/files_go_background"/>
-    <foreground android:drawable="@mipmap/files_go_foreground"/>
+    <background android:drawable="@mipmap/brainly_background"/>
+    <foreground android:drawable="@mipmap/brainly_foreground"/>
 </adaptive-icon>

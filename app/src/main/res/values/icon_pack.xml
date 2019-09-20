@@ -38,6 +38,7 @@
         <item>All</item>
         <item>Action</item>
         <item>Communication</item>
+        <item>Education</item>
         <item>Entertainment</item>
         <item>Health_and_Fitness</item>
         <item>Music</item>
@@ -86,6 +87,7 @@
         <item>coloros_camera</item>
         <item>coloros_calculator</item>
         <item>bloons_td_6</item>
+        <item>brainly</item>
         <item>digital_wellbeing</item>
         <item>download_navi</item>
         <item>google_drive</item>
@@ -93,6 +95,7 @@
         <item>facebook</item>
         <item>fasthub</item>
         <item>files</item>
+        <item>files_go</item>
     </string-array>
 
     <string-array name="Action">
@@ -108,6 +111,10 @@
         <item>telegram</item>
         <item>google_contacts</item>
         <item>google_duo</item>
+    </string-array>
+
+    <string-array name="Education">
+        <item>brainly</item>
     </string-array>
     
     <string-array name="Entertainment">
@@ -167,6 +174,7 @@
         <item>digital_wellbeing</item>
         <item>download_navi</item>
         <item>files</item>
+        <item>files_go</item>
     </string-array>
 
     <string-array name="Trivia">

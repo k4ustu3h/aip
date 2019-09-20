@@ -53,7 +53,7 @@
         component="ComponentInfo{com.google.android.GoogleCameraEng/com.android.camera.CameraLauncher}"
         drawable="google_camera"/>
     <item
-        component="ComponentInfo{com.myairtelapp/com.myairtelapp.activity.OnboardingActivity}"
+        component="ComponentInfo{com.myairtelapp/com.myairtelapp.activity.HomeActivity}"
         drawable="airtel"/>
     <item
         component="ComponentInfo{in.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity}"
@@ -134,6 +134,9 @@
         component="ComponentInfo{com.ninjakiwi.bloonstd6/com.unity3d.player.UnityPlayerActivity}"
         drawable="bloons_td_6"/>
     <item
+        component="ComponentInfo{co.brainly/com.brainly.StartActivity}"
+        drawable="brainly"/>
+    <item
         component="ComponentInfo{com.google.android.apps.wellbeing/com.google.android.apps.wellbeing.settings.LauncherActivity}"
         drawable="digital_wellbeing"/>
     <item
@@ -154,5 +157,8 @@
     <item
         component="ComponentInfo{com.android.documentsui/com.android.documentsui.LauncherActivity}"
         drawable="files"/>
+    <item
+        component="ComponentInfo{com.google.android.apps.nbu.files/com.google.android.apps.nbu.files.home.HomeActivity}"
+        drawable="files_go"/>
 
 </resources>

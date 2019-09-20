@@ -1,5 +1,5 @@
 <!--
-  ~ Copyright (c) 2018. Jahir Fiquitiva
+  ~ Copyright (c) 2019. Jahir Fiquitiva
   ~
   ~ Licensed under the CreativeCommons Attribution-ShareAlike
   ~ 4.0 International License. You may not use this file except in compliance
@@ -14,10 +14,7 @@
   ~ limitations under the License.
   -->
 
-<manifest
-    android:versionName="v19.9.13.1"
-    android:versionCode="199131"
-    xmlns:android="http://schemas.android.com/apk/res/android"
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     package="com.aip">
 
@@ -48,6 +45,7 @@
         <!-- TODO: Remove comment marks to enable Kustom Skins
         * Remove intent-filter action lines according to your needs.
 		* If you're not going to provide one of the options, remove its respective line.
+
         <provider
                 android:name="org.kustom.api.Provider"
                 android:authorities="${applicationId}.kustom.provider"

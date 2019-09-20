@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-  ~ Copyright (c) 2019. Jahir Fiquitiva
+  ~ Copyright (c) 2019. Jahir Fiquitiva.
   ~
   ~ Licensed under the CreativeCommons Attribution-ShareAlike
   ~ 4.0 International License. You may not use this file except in compliance
@@ -15,6 +15,14 @@
   ~ limitations under the License.
   -->
 <resources>
+
+    <version title="v19.9.20.2"/>
+    <item text="added category Education"/>
+    <item text="added Brainly"/>
+
+    <version title="v19.9.20.1"/>
+    <item text="added Files Go"/>
+    <item text="fixed Airtel"/>
 
     <version title="v19.9.13.1"/>
     <item text="updated to Blueprint v1.5.0"/>

@@ -18,7 +18,7 @@
   ~ 	https://github.com/jahirfiquitiva/IconShowcase#special-thanks
   -->
 
-<Theme version="199131">
+<Theme version="199202">
     <Label value="Another Icon Pack" />
     <Wallpaper image="wallpaper_01" />
     <LockScreenWallpaper image="wallpaper_02" />
@@ -55,7 +55,7 @@
         name="com.google.android.GoogleCameraEng/com.android.camera.CameraLauncher"
         image="google_camera"/>
     <AppIcon
-        name="com.myairtelapp/com.myairtelapp.activity.OnboardingActivity"
+        name="com.myairtelapp/com.myairtelapp.activity.HomeActivity"
         image="airtel"/>
     <AppIcon
         name="in.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity"
@@ -136,6 +136,9 @@
         name="com.ninjakiwi.bloonstd6/com.unity3d.player.UnityPlayerActivity"
         image="bloons_td_6"/>
     <AppIcon
+        name="co.brainly/com.brainly.StartActivity"
+        image="brainly"/>
+    <AppIcon
         name="com.google.android.apps.wellbeing/com.google.android.apps.wellbeing.settings.LauncherActivity"
         image="digital_wellbeing"/>
     <AppIcon
@@ -156,5 +159,8 @@
     <AppIcon
         name="com.android.documentsui/com.android.documentsui.LauncherActivity"
         image="files"/>
+    <AppIcon
+        name="com.google.android.apps.nbu.files/com.google.android.apps.nbu.files.home.HomeActivity"
+        image="files_go"/>
 
 </Theme>

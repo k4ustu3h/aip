@@ -44,9 +44,11 @@ notifications:
       - 'Build <%{build_url}|#%{build_number}> (<%{compare_url}|%{commit}: ''%{commit_subject}''>)  by
         %{author} for %{repository_name}@%{branch}, %{result} in %{duration}. <%{build_url}|Check
         details>.'
+
 before_cache:
   - rm -f $HOME/.gradle/caches/modules-2/modules-2.lock
   - rm -fr $HOME/.gradle/caches/*/plugin-resolution/
+
 cache:
   directories:
     - "$HOME/.android/build-cache"
@@ -54,6 +56,7 @@ cache:
     - "$HOME/.gradle"
     - "$HOME/.gradle/caches/"
     - "$HOME/.gradle/wrapper/"
+
 before_script:
   - chmod +x gradlew
   - chmod +x gradle/wrapper/gradle-wrapper.jar
