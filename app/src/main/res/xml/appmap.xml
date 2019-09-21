@@ -108,12 +108,6 @@
         class="com.supercell.clashroyale/com.supercell.clashroyale.GameApp"
         name="clash_royale"/>
     <item
-        class="com.google.android.contacts/com.android.contacts.activities.PeopleActivity"
-        name="google_contacts"/>
-    <item
-        class="com.android.contacts/com.android.contacts.activities.PeopleActivity"
-        name="google_contacts"/>
-    <item
         class="xyz.paphonb.systemuituner/xyz.paphonb.systemuituner.ui.HomeActivity"
         name="custom_navigation_bar"/>
     <item
@@ -137,6 +131,9 @@
     <item
         class="com.tachibana.downloader/com.tachibana.downloader.MainActivity"
         name="download_navi"/>
+    <item
+        class="com.devolver.downwell_rerelease/com.devolver.downwell_rerelease.RunnerActivity"
+        name="downwell"/>
     <item
         class="com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity"
         name="google_drive"/>

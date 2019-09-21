@@ -18,7 +18,7 @@
   ~ 	https://github.com/jahirfiquitiva/IconShowcase#special-thanks
   -->
 
-<Theme version="199202">
+<Theme version="199211">
     <Label value="Another Icon Pack" />
     <Wallpaper image="wallpaper_01" />
     <LockScreenWallpaper image="wallpaper_02" />
@@ -115,12 +115,6 @@
         name="com.supercell.clashroyale/com.supercell.clashroyale.GameApp"
         image="clash_royale"/>
     <AppIcon
-        name="com.google.android.contacts/com.android.contacts.activities.PeopleActivity"
-        image="google_contacts"/>
-    <AppIcon
-        name="com.android.contacts/com.android.contacts.activities.PeopleActivity"
-        image="google_contacts"/>
-    <AppIcon
         name="xyz.paphonb.systemuituner/xyz.paphonb.systemuituner.ui.HomeActivity"
         image="custom_navigation_bar"/>
     <AppIcon
@@ -144,6 +138,9 @@
     <AppIcon
         name="com.tachibana.downloader/com.tachibana.downloader.MainActivity"
         image="download_navi"/>
+    <AppIcon
+        name="com.devolver.downwell_rerelease/com.devolver.downwell_rerelease.RunnerActivity"
+        image="downwell"/>
     <AppIcon
         name="com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity"
         image="google_drive"/>

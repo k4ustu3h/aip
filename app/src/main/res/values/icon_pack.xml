@@ -24,7 +24,7 @@
         <item>discord</item>
         <item>musixmatch</item>
         <item>custom_navigation_bar</item>
-        <item>viper4android</item>
+        <item>google_drive</item>
         <item>keep_notes</item>
         <item>airtel</item>
     </string-array>
@@ -81,7 +81,6 @@
         <item>telegram</item>
         <item>another_widget</item>
         <item>clash_royale</item>
-        <item>google_contacts</item>
         <item>custom_navigation_bar</item>
         <item>codeaurora_snapcam</item>
         <item>coloros_camera</item>
@@ -90,6 +89,7 @@
         <item>brainly</item>
         <item>digital_wellbeing</item>
         <item>download_navi</item>
+        <item>downwell</item>
         <item>google_drive</item>
         <item>google_duo</item>
         <item>facebook</item>
@@ -99,6 +99,7 @@
     </string-array>
 
     <string-array name="Action">
+        <item>downwell</item>
         <item>pubg</item>
         <item>pubg_beta</item>
     </string-array>
@@ -109,7 +110,6 @@
         <item>whatsapp</item>
         <item>chrome</item>
         <item>telegram</item>
-        <item>google_contacts</item>
         <item>google_duo</item>
     </string-array>
 

@@ -113,12 +113,6 @@
         component="ComponentInfo{com.supercell.clashroyale/com.supercell.clashroyale.GameApp}"
         drawable="clash_royale"/>
     <item
-        component="ComponentInfo{com.google.android.contacts/com.android.contacts.activities.PeopleActivity"
-        drawable="google_contacts"/>
-    <item
-        component="ComponentInfo{com.android.contacts/com.android.contacts.activities.PeopleActivity"
-        drawable="google_contacts"/>
-    <item
         component="ComponentInfo{xyz.paphonb.systemuituner/xyz.paphonb.systemuituner.ui.HomeActivity}"
         drawable="custom_navigation_bar"/>
     <item
@@ -142,6 +136,9 @@
     <item
         component="ComponentInfo{com.tachibana.downloader/com.tachibana.downloader.MainActivity}"
         drawable="download_navi"/>
+    <item
+        component="ComponentInfo{com.devolver.downwell_rerelease/com.devolver.downwell_rerelease.RunnerActivity}"
+        drawable="downwell"/>
     <item
         component="ComponentInfo{com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity}"
         drawable="google_drive"/>

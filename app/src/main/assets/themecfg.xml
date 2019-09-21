@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?><!--
+<?xml version="1.0" encoding="utf-8"?>
+<!--
   ~ Copyright (c) 2017 Jahir Fiquitiva
   ~
   ~ Licensed under the CreativeCommons Attribution-ShareAlike
@@ -17,14 +18,10 @@
   ~ 	https://github.com/jahirfiquitiva/IconShowcase#special-thanks
   -->
 
-<!-- This is for Atom Launcher -->
-<themeInfo>
-    <packageName>com.aip</packageName>
-    <versionName>19.9.20.2</versionName>
-    <versionCode>199202</versionCode>
+<theme>
+    <version>19.9.21.1</version>
     <themeName>Another Icon Pack</themeName>
-    <!-- Default Component Color -->
-    <themePointColor>#00b0ff</themePointColor>
-    <themePreview img1="preview1" />
+    <themeInfo>Just Another Icon Pack app for your android phone.</themeInfo>
     <preview img1="preview1" />
-</themeInfo>
+    <preview img2="preview2" />
+</theme>
