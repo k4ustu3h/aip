@@ -102,6 +102,9 @@
         class="org.telegram.messenger/org.telegram.ui.LaunchActivity"
         name="telegram"/>
     <item
+        class="com.adobe.reader/com.adobe.reader.AdobeReader"
+        name="adobe_acrobat"/>
+    <item
         class="com.tommasoberlose.anotherwidget/com.tommasoberlose.anotherwidget.ui.activity.MainActivity"
         name="another_widget"/>
     <item

@@ -17,7 +17,7 @@
 
 <resources>
 
-    <version>199211</version>
+    <version>199271</version>
 
     <category title="Latest" />
     <item drawable="pubg" />
@@ -54,6 +54,7 @@
     <item drawable="shazam"/>
     <item drawable="steam"/>
     <item drawable="telegram"/>
+    <item drawable="adobe_acrobat"/>
     <item drawable="another_widget"/>
     <item drawable="clash_royale"/>
     <item drawable="custom_navigation_bar"/>
@@ -113,6 +114,7 @@
     <item drawable="coloros_camera"/>
 
     <category title="Productivity"/>
+    <item drawable="adobe_acrobat"/>
     <item drawable="airtel"/>
     <item drawable="keep_notes"/>
     <item drawable="google_drive"/>

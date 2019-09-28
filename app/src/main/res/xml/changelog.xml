@@ -16,6 +16,9 @@
   -->
 <resources>
 
+    <version title="v19.9.27.1"/>
+    <item text="added Adobe Acrobat"/>
+
     <version title="v19.9.21.1"/>
     <item text="added Downwell"/>
     <item text="removed Contacts"/>

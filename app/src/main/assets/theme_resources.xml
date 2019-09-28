@@ -18,7 +18,7 @@
   ~ 	https://github.com/jahirfiquitiva/IconShowcase#special-thanks
   -->
 
-<Theme version="199211">
+<Theme version="199271">
     <Label value="Another Icon Pack" />
     <Wallpaper image="wallpaper_01" />
     <LockScreenWallpaper image="wallpaper_02" />
@@ -108,6 +108,9 @@
     <AppIcon
         name="org.telegram.messenger/org.telegram.ui.LaunchActivity"
         image="telegram"/>
+    <AppIcon
+        name="com.adobe.reader/com.adobe.reader.AdobeReader"
+        image="adobe_acrobat"/>
     <AppIcon
         name="com.tommasoberlose.anotherwidget/com.tommasoberlose.anotherwidget.ui.activity.MainActivity"
         image="another_widget"/>

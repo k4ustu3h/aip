@@ -79,6 +79,7 @@
         <item>shazam</item>
         <item>steam</item>
         <item>telegram</item>
+        <item>adobe_acrobat</item>
         <item>another_widget</item>
         <item>clash_royale</item>
         <item>custom_navigation_bar</item>
@@ -146,6 +147,7 @@
     </string-array>
 
     <string-array name="Productivity">
+        <item>adobe_acrobat</item>
         <item>airtel</item>
         <item>keep_notes</item>
         <item>google_drive</item>

@@ -71,6 +71,9 @@ proguard/
 # Temp files for KDE and other Editor's 
 *~
 
+# FreeFileSync Database
+*.sync.ffs_db
+
 #############################################################################
 # Android Studio related files
 #############################################################################
