@@ -17,7 +17,7 @@
 
 <resources>
 
-    <version>199271</version>
+    <version>199291</version>
 
     <category title="Latest" />
     <item drawable="pubg" />
@@ -72,6 +72,7 @@
     <item drawable="fasthub"/>
     <item drawable="files"/>
     <item drawable="files_go"/>
+    <item drawable="fm_radio"/>
 
     <category title="Action" />
     <item drawable="downwell"/>
@@ -96,11 +97,12 @@
     <item drawable="reflectly"/>
 
     <category title="Music"/>
-    <item drawable="viper4android"/>
     <item drawable="automatag"/>
+    <item drawable="fm_radio"/>
     <item drawable="musicfx"/>
     <item drawable="musixmatch"/>
     <item drawable="shazam"/>
+    <item drawable="viper4android"/>
 
     <category title="Personalization"/>
     <item drawable="aexpapers"/>

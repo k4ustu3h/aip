@@ -97,6 +97,7 @@
         <item>fasthub</item>
         <item>files</item>
         <item>files_go</item>
+        <item>fm_radio</item>
     </string-array>
 
     <string-array name="Action">
@@ -127,11 +128,12 @@
     </string-array>
 
     <string-array name="Music">
-        <item>viper4android</item>
         <item>automatag</item>
+        <item>fm_radio</item>
         <item>musicfx</item>
         <item>musixmatch</item>
         <item>shazam</item>
+        <item>viper4android</item>
     </string-array>
 
     <string-array name="Personalization">

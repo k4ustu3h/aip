@@ -16,6 +16,9 @@
   -->
 <resources>
 
+    <version title="v19.9.29.1"/>
+    <item text="added FM Radio"/>
+
     <version title="v19.9.27.1"/>
     <item text="added Adobe Acrobat"/>
 
